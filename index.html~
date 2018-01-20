@@ -6,6 +6,8 @@
 	<body>
 	
 		<h1>hello, world</h1>
+		<a href="about.html">About your ruler</a>
 		<p> Call me Nik-Adi</p>
+		<img src="images/skittles.jpg">
 	</body>
 </html>
